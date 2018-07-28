@@ -1,5 +1,5 @@
 ## Identifers
-The variables using which you can identify
+The variables using which you can identify the subject and the activity
 ### `Subject`
 ### `Activity`
 
