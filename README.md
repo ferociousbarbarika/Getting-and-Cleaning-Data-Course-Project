@@ -2,7 +2,7 @@
 
 ### This is the **Final Project** for the Coursera course `Getting and Cleaning Data`
 
-This Project has a R Program called `run_analysis.R` which does the following steps and gives tidied up data
+This Project has a R Program called `run_analysis.R` which does the following steps -
 > `UCI HAR Dataset` should be inside the working directory
 1. **Loads** all the `Features`
 2. **Loads** and **Merges**, `Subject Dataset`,`Activity Dataset`,`Variable Dataset` from *Train*
