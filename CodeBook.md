@@ -1,8 +1,10 @@
 ## Identifers
+The variables using which you can identify
 ### `Subject`
 ### `Activity`
 
 ## Variables
+The tidy data has the **Average** of all the variables below per **Activity** for a given **Subject**
 ### `fBodyAcc-mean()-X` 
 ### `fBodyAcc-mean()-Y`
 ### `fBodyAcc-mean()-Z`
