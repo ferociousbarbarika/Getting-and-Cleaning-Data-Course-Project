@@ -8,6 +8,6 @@ This Project has a R Program called `run_analysis.R` which does the following st
 2. **Loads** and **Merges**, `Subject Dataset`,`Activity Dataset`,`Variable Dataset` from *Train*
 3. **Loads** and **Merges**, `Subject Dataset`,`Activity Dataset`,`Variable Dataset` from *Test*
 4. **Merges** *Train* and *Test* to `Total Dataset`
-5. **Extracts** needed features(Mean,Features) from the `Total Dataset`
+5. **Extracts** needed features(*Mean*,*Standard Deviation*) from the `Total Dataset`
 6. Calculates **Average** for each **Subject** per **Activity** for every **Variable**
 7. Saves the **Tidy** Data to `tidy_data.txt` file
