@@ -34,4 +34,4 @@ complete_dataset$Activity <- sapply(complete_dataset$Activity,function(num) acti
 # Tidying Dataset
 molten_dataset <- melt(complete_dataset, id=c("Subject","Activity"))
 tidy_dataset <- dcast(molten_dataset, formula = Subject + Activity ~ variable, mean)
-write.table(tidy_dataset,file="tidy_data.txt")
+write.table(tidy_dataset,file="tidy_data.txt",row.name=FALSE,quote = FALSE)
