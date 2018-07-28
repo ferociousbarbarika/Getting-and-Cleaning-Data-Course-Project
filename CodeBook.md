@@ -1,6 +1,6 @@
 ## Identifers
-### 1.`Subject`
-### 2.`Activity`
+### `Subject`
+### `Activity`
 
 ## Variables
 ### `fBodyAcc-mean()-X` 
